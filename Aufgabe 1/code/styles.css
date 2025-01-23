@@ -1,0 +1,19 @@
+.login-container {
+    /* Hier kommt dein Code */
+    width: 300px;
+    margin: 0 auto;
+}
+
+.login-form {
+    /* Gestalte das Formular */
+}
+
+.login-form input {
+    /* Style die Eingabefelder */
+    width: 100%;
+    padding: 10px;
+}
+
+.login-form button {
+    /* Button-Design */
+}

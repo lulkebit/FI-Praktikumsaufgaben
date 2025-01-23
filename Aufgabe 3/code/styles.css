@@ -1,0 +1,10 @@
+.banking-nav {
+    display: flex;
+    /* Grundlegende Navigation */
+}
+
+.nav-item {
+    /* Basis-Styling */
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,11 @@
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 200px;
+}
+
+.chart-bar {
+    width: 30%;
+    background-color: #00549f;
+}
